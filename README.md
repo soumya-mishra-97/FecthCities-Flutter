@@ -1,16 +1,22 @@
 # city_sphere
+# Cities Sphere
+# CitySphere: Clean Architecture Flutter App
 
-A global feel to city data exploration.
+CitySphere is a demo Flutter application built with **Clean Architecture**, using both **BLoC** and **Cubit** state management patterns. It displays information about cities such as population and major industries. The data can be fetched from either an **API** using Dio or from a **local JSON file** (`cities.json`).
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🔧 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Clean Architecture (Domain, Data, Presentation)
+- State Management with BLoC and Cubit (in the same project)
+- Local JSON asset integration (offline support)
+- Modular, testable, and maintainable code
+- Coding practices with SOLID principles
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+JSON File
+Place your cities.json in:
+- assets/data/cities.json
+
