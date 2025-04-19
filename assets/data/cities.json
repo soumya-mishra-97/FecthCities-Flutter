@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "city_name": "New York",
+      "population": 5398741,
+      "economy": {
+        "major_industries": [
+          "Finance",
+          "Technology",
+          "Media",
+          "Entertainment",
+          "Tourism"
+        ]
+      }
+    },
+    {
+      "city_name": "New Jersey",
+      "population": 7398725,
+      "economy": {
+        "major_industries": [
+          "Finance",
+          "Technology",
+          "Media",
+          "Entertainment",
+          "Tourism"
+        ]
+      }
+    },
+    {
+      "city_name": "San Diego",
+      "population": 2398713,
+      "economy": {
+        "major_industries": [
+          "Finance",
+          "Technology",
+          "Media",
+          "Entertainment",
+          "Tourism"
+        ]
+      }
+    },
+    {
+      "city_name": "San Andreas",
+      "population": 4398742,
+      "economy": {
+        "major_industries": [
+          "Finance",
+          "Technology",
+          "Media",
+          "Entertainment",
+          "Tourism"
+        ]
+      }
+    }
+  ]
+}
