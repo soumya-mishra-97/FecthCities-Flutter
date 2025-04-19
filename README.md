@@ -1,4 +1,3 @@
-# city_sphere
 # Cities Sphere
 # CitySphere: Clean Architecture Flutter App
 
