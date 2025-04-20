@@ -5,7 +5,7 @@ CitySphere is a demo Flutter application built with **Clean Architecture**, usin
 
 ---
 
-## 🔧 Features
+## Features
 
 - Clean Architecture (Domain, Data, Presentation)
 - State Management with BLoC and Cubit (in the same project)
